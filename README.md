@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edwin Boon</h1>
 <h3 align="center">A passionate Vue developer from The Netherlands</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinboon&label=Profile%20views&color=0e75b6&style=flat" alt="edwinboon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwinboon" alt="edwinboon" /></a> </p>
-
 - 🔭 I’m currently working on **Learning more about Vue3, Nuxt3 and Vite**
 
 - 🌱 I’m currently learning **Vue3, Nuxt3 and Vite**
